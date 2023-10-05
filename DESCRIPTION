@@ -1,0 +1,14 @@
+Package: blockr.data
+Title: CDISC data for block system
+Version: 0.0.0.9000
+Authors@R: 
+    person("David", "Granjon", , "dgranjon@ymail.com", role = c("aut", "cre"))
+Description: Export multiple CDISC data (demographic, exposure, adverse event).
+    These data are consummed by the `blockr` package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true
